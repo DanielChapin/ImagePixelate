@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 
 public class IPPanel extends JPanel {
 	
-	private Dimension blockSize = new Dimension(1, 1);
+	private Dimension blockSize = new Dimension(5, 5);
 	
 	private BufferedImage image;
 	
